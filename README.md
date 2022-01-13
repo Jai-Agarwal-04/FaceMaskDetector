@@ -1,0 +1,2 @@
+# FaceMaskDetector
+The project uses a Deep Neural Network ,more specifically a Convolutional Neural Network, to differentiate between images of people with and without masks. The CNN manages to get an accuracy of 98.2% on the training set and 97.3% on the test set. This will help at entry gate to stop  people who violates the covid norm of not wearing mask and will help in reducing the spread of virus 
